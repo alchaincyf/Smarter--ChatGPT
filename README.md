@@ -297,4 +297,4 @@ Prompt示例：用普通译者、鲁迅、张爱玲、钱钟书的风格分别�
 ### 技巧28:订阅「ChatGPT精进指南」
 
 你可以从微信中打开这个链接进行订阅：https://xiaobot.net/p/AIclass
-![Alchain花生的专栏「ChatGPT精进指南」](AICLASS.png)
+![Alchain花生的专栏「ChatGPT精进指南」](AICLASS.PNG)
